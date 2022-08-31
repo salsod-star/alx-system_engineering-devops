@@ -3,7 +3,8 @@ All the files listed above are made created inside the terminal. This is one of 
 ## Files structure
 Summary of what to know about the script files above. It is really getting hot right here! Lol.
 
-| File names | commands | executable |
+| **File names** | **commands** | **executable** |
 | :---    |  :---:    | ---:  |
-| *0-current_working_directory* | `pwd` | _True_
-| *1-listit* | ls | _True_
+| **0-current_working_directory** | `pwd` | True
+| **1-listit** | `ls` | True
+| **2-bring_me_home** | `cd /` | True
